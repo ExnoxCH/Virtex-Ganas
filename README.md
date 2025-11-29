@@ -1,4 +1,7 @@
 # Virtex-Ganas
+![Python Version](https://img.shields.io/badge/Python_Version-3.11+-3776AB?logo=python&logoColor=white)
+![License Apache](https://img.shields.io/badge/License-Apache_2.0-blue?logo=apache&logoColor=white)
+
 ## Apa itu Virtex?
 Virtex adalah suatu/tulisan acak yg dapat membuat lag wa/hp
 
