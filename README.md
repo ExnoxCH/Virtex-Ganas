@@ -24,14 +24,11 @@ pkg install python3
 ## Main
 ![prev1](.assets/prev1.png)
 
-## About
-![about](.assets/about.png)
-
-## Pilihan Virtex
-![pv](.assets/pv.png)
-
 ## 97 Virtex
+<details>
+<summary>Klik di sini untuk melihat daftar Virtex</summary>
 
+### Kumpulan Virtex
 01. (King) OSC4R O`4S1S
 02. 14N Virus
 03. ALDI DOLALAH File
@@ -129,3 +126,4 @@ pkg install python3
 95. Đ.Δ.Μ.Ň.į.Ҝ.Δ.
 96. Đ.Δ.Μ.Ň.į.Ҝ.Δ.ᇸ-WPS Office
 97. ~root#THN√4꒒ꅏꍏꈤ
+</details>
