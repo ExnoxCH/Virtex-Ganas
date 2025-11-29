@@ -6,7 +6,7 @@
 * Virtex adalah suatu/tulisan acak yg dapat membuat lag wa/hp
 ## ⚠️ Peringatan (Disclaimer)
 ![High Risk](https://img.shields.io/badge/BERISIKO-Penggunaan%20Beresiko-red?style=for-the-badge&logo=lightning&logoColor=white)
-* Proyek ini disediakan `SEBAGAIMANA ADANYA` (AS IS) tanpa jaminan apa pun, baik tersurat maupun tersirat. Pengembang tidak bertanggung jawab atas segala kerusakan yang diakibatkan oleh penggunaan script atau kode ini. Pengguna sepenuhnya bertanggung jawab atas penggunaan dan segala konsekuensinya.
+* Proyek ini disediakan `SEBAGAIMANA ADANYA` (AS IS) tanpa jaminan apa pun, baik tersurat maupun tersirat. Saya tidak bertanggung jawab atas segala kerusakan yang diakibatkan oleh penggunaan script atau kode ini. Pengguna sepenuhnya bertanggung jawab atas penggunaan dan segala konsekuensinya.
 
 ### ⚙️Requirement!
 Semua sudah ada di scriptnya `(otomatis)`
