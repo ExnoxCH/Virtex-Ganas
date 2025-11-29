@@ -3,12 +3,15 @@
 ![License Apache](https://img.shields.io/badge/License-Apache_2.0-blue?logo=apache&logoColor=white)
 
 ## Apa itu Virtex?
-Virtex adalah suatu/tulisan acak yg dapat membuat lag wa/hp
+* Virtex adalah suatu/tulisan acak yg dapat membuat lag wa/hp
+## ⚠️ Peringatan (Disclaimer)
+![High Risk](https://img.shields.io/badge/BERISIKO-Penggunaan%20Beresiko-red?style=for-the-badge&logo=lightning&logoColor=white)
+* Proyek ini disediakan `SEBAGAIMANA ADANYA` (AS IS) tanpa jaminan apa pun, baik tersurat maupun tersirat. Pengembang tidak bertanggung jawab atas segala kerusakan yang diakibatkan oleh penggunaan script atau kode ini. Pengguna sepenuhnya bertanggung jawab atas penggunaan dan segala konsekuensinya.
 
-### Requirement!
+### ⚙️Requirement!
 Semua sudah ada di scriptnya `(otomatis)`
 
-### Usage/Perintah
+### 💻Usage/Perintah
 ```bash
 python3 Virtex.py
 ```
