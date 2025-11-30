@@ -45,7 +45,6 @@ if 'linux' in sys.platform:
   w = "\033[97m" # White
   a = "\033[0m"  # Reset
 else:
-  # Convert String To Variabel Name
   for i in ['r','g','y','p','P','c','w','a']:
     globals()[i] = ""
 
